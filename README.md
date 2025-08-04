@@ -40,9 +40,10 @@ Contribuições são bem-vindas! Se você encontrar algum `bug` ou tiver `sugest
 
 ## 📄 Licença
 
-**Música de fundo, feita por Ynoydelk**
-**Assets de cenário, Kenney**
-**Sprites, Outer Buddies**
+**Música de fundo, feita por: *Ynoydelk*,**
+**Assets de cenário: *Kenney,***
+**Sprites: *Outer Buddies***
+
 **Distribuído sob a licença *MIT***.  
 *Consulte o arquivo `LICENSE` para mais informações.*
 
